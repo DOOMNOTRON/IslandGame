@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".TitleScreen">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="179dp"
+        android:layout_height="66dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:text="Island..."
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="97dp"
+        tools:layout_editor_absoluteY="257dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
